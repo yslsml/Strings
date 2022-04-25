@@ -1,0 +1,4 @@
+2022-04-25 17:00:51 [main] INFO 
+            string.run.Main - Number of words with vowels in the beginning and in the end in 1st poem is 4
+2022-04-25 17:00:51 [main] INFO 
+            string.run.Main - Number of words with vowels in the beginning and in the end in 2nd poem is 12
